@@ -20,7 +20,7 @@ Trabajo en el ciclo completo de los proyectos: desde la proyección y documentac
 
 ## 🏭 Sectores
 
-Minería · Refrigeración Industrial · Bombreo de Agua · Procesos · Aeropuertuario · Inmobiliario
+Minería · Refrigeración Industrial · Bombreo de Agua · Procesos · Aeropuertuario · Edilicio
 
 ---
 
